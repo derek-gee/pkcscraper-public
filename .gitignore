@@ -1,0 +1,10 @@
+.env
+*.log
+scraper.log
+scraper_ui.log
+*.xlsx
+codingNotes.txt
+mirror_repo.sh
+__pycache__/
+version.sh
+reset_patch_notes.sh
